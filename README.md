@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Under Construction
 
-You can use the [editor on GitHub](https://github.com/SilverFangNetwork/Ginga-Dating-Sim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Ginga Dating Sim is currently under construction!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contribute
 
-### Markdown
+Want to help create the game? Feel free to comment on the [Google Doc](https://docs.google.com/document/d/1yrE8DEDm5JbtqvTkmp5rGTf6ILOAZfID_ZVlF616BH8/edit?usp=sharing) or share your ideas in the [Project Discord Channel](https://discord.gg/J9AVMJZ).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Credits
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SilverFangNetwork/Ginga-Dating-Sim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dialog by ???
+Art by ???
+Coding by Regnant
+Built using Ren'Py v.6.99.13
