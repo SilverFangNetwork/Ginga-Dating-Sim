@@ -1,2 +1,5 @@
 @import "{{ site.theme }}";
 
+.page-header a.btn {
+  display: none;
+}
