@@ -9,6 +9,9 @@ Want to help create the game? Feel free to comment on the [Google Doc](https://d
 ### Credits
 
 Dialog by ???
+
 Art by ???
+
 Coding by Regnant
+
 Built using Ren'Py v.6.99.13
