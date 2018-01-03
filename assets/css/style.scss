@@ -7,6 +7,11 @@ img {
   max-width: 100%;
 }
 
+section.page-header {
+  background: #000 url('../window_icon.png') center center no-repeat;
+  text-shadow: 0 0 2px #000;
+}
+
 section.page-header a.btn {
   display: none;
 }
