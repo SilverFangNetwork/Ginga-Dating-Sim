@@ -13,7 +13,9 @@ section.page-header {
   border-bottom: 2px solid #000;
 }
 @media screen and (max-width: 64em) {
-  background-position: top center;
+  section.page-header {
+    background-position: top center;
+  }
 }
 
 .project-name {
