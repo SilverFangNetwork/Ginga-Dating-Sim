@@ -3,5 +3,4 @@ title: Ginga Dating Sim
 description: Currently under construction.
 favicon: "assets/window_icon.png"
 twitter: silverfangnet
-github:
-  zip_url: https://github.com/SilverFangNetwork/GingaDatingSim/archive/v0.1.zip
+show_downloads: false
