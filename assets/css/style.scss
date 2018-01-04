@@ -29,12 +29,16 @@ p.view {
   display: none; 
 }
 
-a, a:hover, a:focus, a:active {
+a, a:hover, a:focus {
   color: #ff0000;
 }
-a:hover, a:focus, a:active {
+a:hover, a:focus {
   font-weight: normal;
   text-decoration: underline;
+}
+header ul a:hover, header ul a:focus {
+  font-weight: bold;
+  text-decoration: none;
 }
 
 footer {
@@ -42,4 +46,16 @@ footer {
   position: relative;
   bottom: auto;
   text-align: center;
+}
+
+
+@media print, screen and (max-width: 960px) {
+  header {
+    padding-right: 0;
+  }
+  header ul {
+    position: relative;
+    right: auto;
+    top: auto;
+  }
 }
