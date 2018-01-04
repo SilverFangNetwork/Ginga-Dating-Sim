@@ -9,9 +9,37 @@ img {
 
 header {
   background: url('../window_icon.png') top center no-repeat;
-  padding-top: 240px
+  padding-top: 275px;
+  text-align: center;
+  position: relative;
+}
+header ul {
+  width: auto;
+}
+header li {
+  display: none;
+}
+header li:last-of-type {
+  display: block;
+  float: none;
+  width: auto;
+}
+
+p.view {
+  display: none; 
 }
 
 a, a:hover, a:focus, a:active {
   color: #ff0000;
+}
+a:hover, a:focus, a:active {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+footer {
+  float: none;
+  position: relative;
+  bottom: auto;
+  text-align: center;
 }
