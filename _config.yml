@@ -2,8 +2,5 @@ theme: jekyll-theme-minimal
 title: Ginga Dating Sim
 description: Currently under construction.
 favicon: "assets/window_icon.png"
-
-colors:
-  theme: "#000000"
-  
+show_downloads: "false"
 twitter: silverfangnet
