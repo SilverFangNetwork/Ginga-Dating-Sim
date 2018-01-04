@@ -7,33 +7,11 @@ img {
   max-width: 100%;
 }
 
-section.page-header {
-  background: #000 url('../window_icon.png') center center no-repeat;
-  text-shadow: rgb(0, 0, 0) 2px 0px 0px, rgb(0, 0, 0) 1.75517px 0.958851px 0px, rgb(0, 0, 0) 1.0806px 1.68294px 0px, rgb(0, 0, 0) 0.141474px 1.99499px 0px, rgb(0, 0, 0) -0.832294px 1.81859px 0px, rgb(0, 0, 0) -1.60229px 1.19694px 0px, rgb(0, 0, 0) -1.97998px 0.28224px 0px, rgb(0, 0, 0) -1.87291px -0.701566px 0px, rgb(0, 0, 0) -1.30729px -1.5136px 0px, rgb(0, 0, 0) -0.421592px -1.95506px 0px, rgb(0, 0, 0) 0.567324px -1.91785px 0px, rgb(0, 0, 0) 1.41734px -1.41108px 0px, rgb(0, 0, 0) 1.92034px -0.558831px 0px;
-  border-bottom: 2px solid #000;
-}
-@media screen and (max-width: 64em) {
-  section.page-header {
-    background-position: top center;
-  }
+header {
+  background: url('../window_icon.png') top center no-repeat;
+  padding-top: 240px
 }
 
-.project-name {
-  padding: 20px; 
-}
-.project-tagline {
-  display: none;
-}
-
-section.page-header a.btn {
-  display: none;
-}
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: #000;
-  font-weight: bold;
-}
-
-a {
+a, a:hover, a:focus, a:active {
   color: #ff0000;
 }
