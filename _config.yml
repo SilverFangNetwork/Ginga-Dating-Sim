@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Ginga Dating Sim
 description: Currently under construction.
 favicon: "assets/window_icon.png"
+theme-color: "#000000"
