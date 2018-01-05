@@ -74,7 +74,7 @@ label akakabutoarc2:
     
     riki "Ohu just isn't the right place for you. Farewell, [playername]."
     
-    jump akakabutoarc4
+    jump akakabutarc4
     
 label akakabutoarc3:
     
@@ -123,7 +123,7 @@ menu:
     "I love you... Akakabuto...":
         jump akakabutoarc5
         
-    "Ai shiteru... Akakabut-san...":
+    "Ai shiteru... Akakabuto-san...":
         jump akakabutoarc5
         
     "Jag älskar dig... Akakabuto...":
