@@ -29,7 +29,7 @@ define config.version = "1.0"
 ## Text that is placed on the game's about screen. To insert a blank line
 ## between paragraphs, write \n\n.
 
-define gui.about = _("")
+define gui.about = _("About text here")
 
 
 ## A short name for the game used for executables and directories in the built
@@ -44,9 +44,9 @@ define build.name = "GingaDatingSim"
 ## These three variables control which mixers are shown to the player by
 ## default. Setting one of these to False will hide the appropriate mixer.
 
-define config.has_sound = True
-define config.has_music = True
-define config.has_voice = True
+define config.has_sound = False
+define config.has_music = False
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
