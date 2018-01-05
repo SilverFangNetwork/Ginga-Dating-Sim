@@ -1,6 +1,7 @@
 
 # website files
 *.yml
+*.txt
 favicon.ico
 CNAME
 assets/
